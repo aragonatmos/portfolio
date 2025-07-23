@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Jared Aragon</h1>
+      <h1 class='text-9xl font-bold'>Jared Aragon</h1>
     </>
   )
 }
