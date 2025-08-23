@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
+import Navbar from './components/Navbar';
 
 function App() {
 
 
   return (
     <>
-      <h1 class='text-9xl font-bold'>Jared Aragon</h1>
+      <Navbar />
     </>
   )
 }
