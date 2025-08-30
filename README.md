@@ -3,4 +3,5 @@
 ![Static Badge](https://img.shields.io/badge/React-19.1-blue)
 
 
-This application is built with React and Vite. It is hosted on Netlify.
+## Description
+The purpose of this application is to showcase my projects and skills as a Full-Stack Web Developer. 
